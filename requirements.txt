@@ -1,0 +1,12 @@
+boto3
+requests
+
+
+
+
+
+
+
+
+
+
